@@ -9,7 +9,7 @@ export const projects = [
     id: "vacation-villa",
     slug: "vacation-villa",
     title: "Vacation Villa",
-    location: "Bangalore, Karnataka",
+    location: "Bangalore",
     category: "Residential",
     year: "2024",
     area: "5,400 sq.ft",
@@ -22,7 +22,7 @@ export const projects = [
       "The architectural strategy centers on dissolving the boundary between interior habitation and tropical landscape. A deliberate orientation maximizes daylight penetration while shielding living volumes from harsh afternoon solar gain. Extended cantilevered overhangs provide passive shading, while water bodies adjacent to the glazed perimeter cool prevailing breezes before they enter the home.",
     spatialDetails: [
       { label: "Typology", value: "Private Luxury Residence" },
-      { label: "Location", value: "Bangalore, Karnataka, India" },
+      { label: "Location", value: "Bangalore, India" },
       { label: "Scope", value: "Architecture, Landscape & Interior Planning" },
       { label: "Primary Materials", value: "Textured Lime Plaster, Teak Wood Battens, Flamed Granite, High-Performance Glazing" },
       { label: "Climatic Response", value: "Passive cross-ventilation, evaporative cooling via reflective water court, deep eaves" },
@@ -58,7 +58,7 @@ export const projects = [
     id: "holiday-cottage",
     slug: "holiday-cottage",
     title: "Holiday Cottage",
-    location: "Gokarna, Karnataka",
+    location: "Gokarna",
     category: "Hospitality",
     year: "2024",
     area: "2,200 sq.ft",
@@ -71,7 +71,7 @@ export const projects = [
       "Rooted in Gokarna's coastal climate and regional vernacular heritage, the cottage prioritizes natural ventilation and passive cooling. Deep wraparound verandahs buffer against tropical monsoon rains and intense coastal sunshine, while allowing inhabitants to live outdoors throughout the year.",
     spatialDetails: [
       { label: "Typology", value: "Boutique Hospitality / Eco-Cottage" },
-      { label: "Location", value: "Gokarna, Karnataka, India" },
+      { label: "Location", value: "Gokarna, India" },
       { label: "Scope", value: "Master Planning, Architectural & Verandah Design" },
       { label: "Primary Materials", value: "Exposed Wire-Cut Brick, Reclaimed Timber, Mangalore Clay Tiles, Terrazzo" },
       { label: "Climatic Response", value: "High-volume vaulted ceilings for stack-effect cooling, breathable brick screens (jaalis)" },
@@ -107,7 +107,7 @@ export const projects = [
     id: "jihad-residence",
     slug: "jihad-residence",
     title: "Jihad Residence",
-    location: "Kannur, Kerala",
+    location: "Kannur",
     category: "Residential",
     year: "2023",
     area: "4,800 sq.ft",
@@ -117,10 +117,10 @@ export const projects = [
     summary:
       "A contemporary two-storey residence characterized by clean geometric forms, sloped roofs, and a balanced mix of stone, textured cladding, and expansive glazing to enhance natural light. The design integrates indoor–outdoor living with a rooftop garden terrace, landscaped frontage, and a defined entry porch supported by minimalist columns, creating a refined yet warm residential aesthetic.",
     approach:
-      "Designed specifically for the heavy seasonal monsoons and high humidity of coastal Malabar in Kannur, Kerala. The building volume articulates traditional Kerala sloped rooflines reinterpreted through crisp contemporary geometry. Generous glazing is strategically shielded by structural portals and overhangs.",
+      "Designed for the heavy seasonal monsoons and high coastal humidity of the Malabar region. The building volume articulates traditional sloped rooflines reinterpreted through crisp contemporary geometry. Generous glazing is strategically shielded by structural portals and overhangs.",
     spatialDetails: [
       { label: "Typology", value: "Multi-Generational Private Villa" },
-      { label: "Location", value: "Kannur, Kerala, India" },
+      { label: "Location", value: "Kannur, India" },
       { label: "Scope", value: "Comprehensive Architectural Design & Elevation Modeling" },
       { label: "Primary Materials", value: "Natural Kerala Laterite Cladding, Granite Paving, Textured Exterior Stucco, Powder-Coated Metal Pergolas" },
       { label: "Climatic Response", value: "Dual sloped roofs for monsoon drainage, deep covered entry portico, rooftop terrace thermal buffer" },
@@ -156,7 +156,7 @@ export const projects = [
     id: "cafe-bangalore",
     slug: "cafe-bangalore",
     title: "Pan-Asian Cafe",
-    location: "Bangalore, Karnataka",
+    location: "Bangalore",
     category: "Commercial",
     year: "2024",
     area: "1,850 sq.ft",
@@ -169,7 +169,7 @@ export const projects = [
       "The design approach draws on Japanese spatial minimalism (shakkei and ma) to carve out serene dining pockets within an active urban neighborhood. Restrained material palettes prioritize sensory warmth, allowing culinary craft and quiet conversation to take center stage.",
     spatialDetails: [
       { label: "Typology", value: "Hospitality & Specialty Dining" },
-      { label: "Location", value: "Indiranagar, Bangalore, Karnataka" },
+      { label: "Location", value: "Indiranagar, Bangalore, India" },
       { label: "Scope", value: "Interior Architecture, Bespoke Furniture & Lighting Design" },
       { label: "Primary Materials", value: "Natural Oak, Matte Charcoal Laminate, Fluted Glass, Warm 2700K Architectural Downlights" },
       { label: "Spatial Logic", value: "Acoustic attenuation via fluted timber paneling, zoned banquettes for private dining" },
@@ -254,7 +254,7 @@ export const projects = [
     id: "residence-bellary",
     slug: "residence-bellary",
     title: "Frame Residence",
-    location: "Bellary, Karnataka",
+    location: "Bellary",
     category: "Residential",
     year: "2024",
     area: "3,900 sq.ft",
@@ -264,10 +264,10 @@ export const projects = [
     summary:
       "A modern house elevation with projected geometric framing creates a bold and dynamic façade with clean lines and layered depth. The design emphasizes a sleek, contemporary look while adding visual interest through strong architectural projections and warm material textures.",
     approach:
-      "Located in the arid, semi-dry climate of Bellary, solar exposure is a primary architectural driver. Projected geometric frames act as deep brise-soleil portals, casting self-shading shadows onto fenestrations during peak sun hours while creating sculpted volumetric rhythm.",
+      "Located in an arid, semi-dry climate, solar exposure is a primary architectural driver. Projected geometric frames act as deep brise-soleil portals, casting self-shading shadows onto fenestrations during peak sun hours while creating sculpted volumetric rhythm.",
     spatialDetails: [
       { label: "Typology", value: "Urban Family Residence" },
-      { label: "Location", value: "Bellary, Karnataka, India" },
+      { label: "Location", value: "Bellary, India" },
       { label: "Scope", value: "Elevation Architecture, Facade Engineering, Material Palette" },
       { label: "Primary Materials", value: "Sculpted Concrete Portals, Warm Wood Louvers, Texture-Coat Render, Charcoal Aluminum Joinery" },
       { label: "Climatic Response", value: "Deep recessed glazing planes eliminating direct solar heat gain, cross-ventilated core" },
